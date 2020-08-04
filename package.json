@@ -1,6 +1,6 @@
 {
   "name": "create-alliage-app",
-  "version": "0.0.1-pre.1",
+  "version": "0.0.1",
   "description": "CLI allowing to bootstrap an Alliage application",
   "main": "dist/index.js",
   "repository": "git@github.com:TheHumbleJester/create-alliage-app.git",
