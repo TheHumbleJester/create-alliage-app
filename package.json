@@ -1,8 +1,8 @@
 {
   "name": "create-alliage-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI allowing to bootstrap an Alliage application",
-  "main": "dist/index.js",
+  "main": "index.js",
   "repository": "git@github.com:TheHumbleJester/create-alliage-app.git",
   "author": "The Humble Jester <the.humble.jester@gmail.com>",
   "license": "Apache-2.0",
@@ -17,7 +17,7 @@
     "yargs": "^15.4.1"
   },
   "bin": {
-    "create-alliage-app": "dist/index.js"
+    "create-alliage-app": "index.js"
   },
   "devDependencies": {
     "@types/command-exists": "^1.2.0",
